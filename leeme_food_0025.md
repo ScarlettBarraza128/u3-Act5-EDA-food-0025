@@ -6,3 +6,9 @@
 ![alt text](image-1.png)
 ## Tiempo de cocinadomostrar 10 requisitos de con head
 ![alt text](image-2.png)
+## Creación de grafica
+![alt text](image-3.png)
+## Grafica de varias columnas
+![alt text](image-4.png)
+## Grafica de barras apiladas 
+![alt text](image-5.png)
